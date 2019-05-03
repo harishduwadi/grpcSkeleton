@@ -1,0 +1,8 @@
+<Configuration>
+
+    <ListenPort>:50051</ListenPort>
+    <LogFile></LogFile>
+    <PublicKeyLocation>publickey.cert</PublicKeyLocation>
+    <PrivateKeyLocation>privatekey.key</PrivateKeyLocation>
+
+</Configuration>
