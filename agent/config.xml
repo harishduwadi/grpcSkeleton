@@ -1,6 +1,6 @@
 <Configuration>
 
-    <ListenAddress>127.0.0.1:50051</ListenAddress>
+    <ListenAddress>jenkins-sre-01.6f.pas.supplyframe.io:50051</ListenAddress>
     <LogFile></LogFile>
     <PublicKeyLocation>publickey.cert</PublicKeyLocation>
 
